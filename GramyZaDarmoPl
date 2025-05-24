@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8" />
+<title></title>
+<style>
+  body {
+    margin: 0;
+    height: 100vh;
+    background-image: url('https://zapodaj.net/images/c191822b77270.jpg');
+    background-size: 1000px 1000px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    color: white;
+  }
+  .content {
+    font-size: 20px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7); 
+    font-weight: bold;
+    color: red; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+    padding: 20px;
+    background-color: rgba(0,0,0,0.0); 
+    max-width: 900px;
+    margin: 50px auto;
+    border-radius: 10px;
+    text-align: center; 
+  }
+  h1 {
+    font-size: 36px;
+    margin-top: 0;
+    font-weight: bold;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0; 
+  }
+</style>
+</head>
+<body>
+  <div class="content">
+    <h1></h1>
+    <https://s264-pl.ogame.gameforge.com/game/allianceInfo.php?allianceId=500017 -->
+    <p></p>
+
+    <ul>
+      <p><li><strong></strong></li>
+      <li>Przywódca: GramZaDarmoPL</li>
+       <li>Liczba członków aktywnych: 110</li>
+      <p><li>Witam wszystkich serdecznie!:)<br>
+          Stworzyłem ten sojusz dla wszystkich tych, którzy chcą móc cieszyć się spokojną grą bez zbędnego wydawania realnych pieniędzy na produkcję, która w istocie swej jest darmowa. Zapraszamy wszystkich zainteresowanych.<br>
+          Ze względu na dużą liczbę zainteresowanych, wprowadziliśmy próg rekrutacji - TOP 500 w rankingu gry.<br>
+          Oferujemy doświadczenie i pomoc w rozwoju planet, księżyców, ekonomii, badań, flot oraz miłą atmosferę.<br>
+          Szanujemy wybory graczy i ich styl gry, tj. klasy i formy życia.
+      </li>
+    </ul>
+  </div>
+</body>
+</html>
